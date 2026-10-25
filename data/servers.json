@@ -3516,6 +3516,24 @@
     }
   },
   {
+    "name": "Sports Odds API (BetRivers, Unibet & 22 more books)",
+    "url": "https://apify.com/publicrecords/sports-odds-api",
+    "description": "Live odds from 24 Kambi-powered sportsbooks in one call, including BetRivers (12 US states + Ontario), Unibet, Paf, Svenska Spel and ATG, with every book's price and the best price per outcome; pay per call.",
+    "category": "data-analytics-and-bi",
+    "language": "JavaScript",
+    "provider": "publicrecords",
+    "tags": [
+      "sports",
+      "betting",
+      "odds",
+      "remote"
+    ],
+    "official": false,
+    "endpoints": {
+      "streamableHttp": "https://mcp.apify.com?tools=publicrecords/sports-odds-api"
+    }
+  },
+  {
     "name": "Zaptu",
     "url": "https://github.com/TommyTap11/zaptu",
     "description": "Sends a person's consented US home-service contact request (service, ZIP, name, phone) to independent local providers; for plumbing it returns a number the person dials, and Zaptu does not perform the work.",
